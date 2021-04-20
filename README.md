@@ -25,15 +25,17 @@ I occasionally write on https://blog.darko.io. It also has a proper RSS feed :wi
 ---
 ### 🔧 Tech I like using on my projects
 
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50">
-<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" width="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" width="50">
-<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50">
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/hapi.svg" width="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="50" />
+<div style="display:flex;">
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" width="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/hapi.svg" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="50" />
+</div>
 ---
 
 
