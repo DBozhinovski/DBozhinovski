@@ -39,4 +39,10 @@ I occasionally write on https://blog.darko.io. It also has a proper RSS feed :wi
 
 ---
 
+### &#x1f4c8; My GitHub Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBozhinovski&hide=java,html,css&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DBozhinovski&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+---
