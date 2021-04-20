@@ -1,6 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Darko!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/d_bozhinovski?style=social)
+
+<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/intent/follow?screen_name=d_bozhinovski"><img src="https://camo.githubusercontent.com/1fcde30ea4d9b5585d5326200615048af9e2828e74fb0bd92a97569096e72e6a/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f645f626f7a68696e6f76736b693f7374796c653d736f6369616c" alt="Twitter Follow" data-canonical-src="https://img.shields.io/twitter/follow/d_bozhinovski?style=social" style="max-width:100%;"></a>
 
 ---
 
