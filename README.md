@@ -36,6 +36,7 @@ I occasionally write on https://blog.darko.io. It also has a proper RSS feed :wi
   <img src="https://cdn.worldvectorlogo.com/logos/hapi.svg" width="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="50" />
 </div>
+
 ---
 
 
