@@ -9,8 +9,7 @@ I develop software for fun and profit using (mostly) JavaScript and related stuf
 
 Darko in bullet points:
 
-* Runs a company called [Foundry](https://foundry.mk) - as long as it's a challenge, we're happy to take on it. 
-* Works with a some very cool companies and people - https://www.panther.co/, https://anne4care.nl/en/i-am-anne/, https://tribevibe.earth/, to name a few.
+* Freelance software developer, who loves a technical challenge.
 * Runs a local JS meetup, [BeerJS Skopje](https://beerjs.mk/).
 * A through and through Linux-loving commie.
 * But also a gamer, <strike>so I may or may not dual boot to the OS that I shall not name</strike>. Update: no longer the case, since [Proton](https://github.com/ValveSoftware/Proton/) became a thing.
