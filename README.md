@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Darko!
+## Hi there 🍻! I'm Darko!
 
 
 <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/intent/follow?screen_name=d_bozhinovski"><img src="https://camo.githubusercontent.com/1fcde30ea4d9b5585d5326200615048af9e2828e74fb0bd92a97569096e72e6a/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f645f626f7a68696e6f76736b693f7374796c653d736f6369616c" alt="Twitter Follow" data-canonical-src="https://img.shields.io/twitter/follow/d_bozhinovski?style=social" style="max-width:100%;"></a>
@@ -21,28 +21,3 @@ Darko in bullet points:
 * Usually doesn't refer to himself in third person.
 
 I occasionally write on https://blog.darko.io. It also has a proper RSS feed :wink:.
-
----
-### 🔧 Tech I like using on my projects
-
-<div style="display:flex;">
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" width="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/hapi.svg" width="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="50" />
-</div>
-
----
-
-### &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBozhinovski&hide=java,html,css&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DBozhinovski&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
----
